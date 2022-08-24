@@ -4,3 +4,5 @@
 
 Using python to get (int)array of frequency and time from midi file， python script will print the array(just copy to Arduino).
 Using arduino to play the music.
+
+![image](Wiring diagram.jpg)
