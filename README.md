@@ -5,4 +5,5 @@
 Using python to get (int)array of frequency and time from midi file， python script will print the array(just copy to Arduino).
 Using arduino to play the music.
 
+![BreadBoard](https://github.com/PRC-AExcalibur/midi_player_by_buzzer-arduino-/blob/main/breadboard.png)
 ![Wiring diagram](https://github.com/PRC-AExcalibur/midi_player_by_buzzer-arduino-/blob/main/Wiring%20diagram.jpg)
